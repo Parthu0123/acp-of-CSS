@@ -1,0 +1,24 @@
+*{
+    font-size: 25px;
+    font-weight: 300;
+}
+
+h3{
+    color: brown;
+}
+
+h4{
+    color: aqua;
+}
+
+.a{
+    color: chocolate;
+}
+
+#parthu{
+    color: blue;
+}
+
+h5.p{
+    color: darkblue;
+}
